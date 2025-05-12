@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [Product-Store](https://elaborate-sprinkles-fcd9fc.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://habib937.github.io/portpolio/](https://habib937.github.io/portpolio/)
+- 👨‍💻 All of my projects are available at [https://amazing-fairy-b74751.netlify.app/](https://amazing-fairy-b74751.netlify.app/)
 
 - 💬 Ask me about **React, NodeJS, ExpressJS, MongoDB**
 
